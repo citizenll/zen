@@ -1,0 +1,14 @@
+button:
+  about: 关于
+  paused: 已暂停
+  available: 可使用
+  close_test: 关闭测试模式
+  block_url: 屏蔽当前网址
+  block_url_precise: 精确匹配
+  block_url_fuzzy: 域名匹配
+tips:
+  no_list:  暂无屏蔽列表
+  trigger_count: 触发次数
+  last_trigger: 上次触发
+  praise: 暂无记录，太棒了，继续保持!
+  sentence: 专注是一种态度，更是一种坚持

@@ -1,0 +1,15 @@
+button:
+  paused: Paused
+  available: available
+  close_test: Close test mode
+  block_url: Block current url
+  block_url_precise: Precise
+  block_url_fuzzy: Fuzzy
+tips:
+  no_list: No Blocked list
+  add_url_success: URL added successfully
+  blocked: The current address has been blocked
+  trigger_count: Trigger times
+  last_trigger: Last trigger
+  praise: No record yet, keep it up!
+  sentence: Concentration is an attitude, but also a kind of persistence
